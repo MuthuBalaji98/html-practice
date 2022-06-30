@@ -1,0 +1,168 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+       background-color: #070603;
+       opacity: 50%;
+}
+a{
+    text-decoration: none;
+}
+.container1{
+    width: 1340px;  
+    margin: auto;
+    padding: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.header-logo{
+    font-size: 35px;
+}
+.nav-bar{
+    padding: 20px;
+    margin: 30px;
+    font-size: 25px;
+    word-spacing: 1cm;
+    align-items: center;
+}
+.nav-items{
+    color: white;
+}
+.banner{
+    background-color: black;
+    opacity: 50%;
+}
+.container2{
+    text-align: center;
+    height: 491px;
+    width: 1200px;
+    margin: auto;
+    color: white;
+    padding: 1cm;
+}
+.para1{
+    font-size: 35px;
+    color: white;
+}
+.para2{
+    font-size: 40px;
+    color: white;
+}
+.para3{
+    font-size: 25px;
+    color: white;
+}
+.para4{
+    font-size: 18px;
+    color: white;
+}
+.back-image{
+    background-image: url(../hero-bg.jpg);
+    margin: auto;
+    padding: auto;
+    opacity: 150%;
+}
+.container3{
+    height: 173px;
+    width: 685px;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+.para5{
+    font-size: 30px;
+}
+.para6{
+    font-size:40px;
+}
+.para7{
+    font-size: 20px;
+}
+.container4{
+    width: 1300px;
+    margin: auto;
+    padding: auto;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 55px;
+}
+.about-left{
+    font-size: 20px;
+}
+.about-right{
+    font-size: 20px;
+    text-align: justify;
+}
+.container5{
+    width: 677px;
+    height: 200px;
+    margin: auto;
+    text-align: center;
+}
+.para8{
+    font-size: 35px;
+}
+.para9{
+    font-size: 25px;
+}
+.para10{
+    font-size: 18px;
+}
+.container6{
+    width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+.service-wrapper{
+    display: flex;
+    justify-items: auto;
+    align-items: center;
+    color: white;
+}
+.services1{
+    font-size: 20px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 0.5cm;
+    margin:0.5cm;
+    background-color: burlywood;
+    color: white;
+    line-height: 1cm;
+}
+.services2{
+    font-size: 20px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 0.5cm;
+    margin:0.5cm;
+    background-color: burlywood;
+    color: white;
+    line-height: 1cm;
+}
+.services3{
+    font-size: 20px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 0.5cm;
+    margin:0.5cm;
+    background-color: burlywood;
+    color: white;
+    line-height: 1cm;
+}
+.services4{
+    font-size: 20px;
+    border: 1px solid black;
+    align-items: center;
+    padding: 0.5cm;
+    margin: 0.5cm;
+    background-color: burlywood;
+    color: white;
+    line-height: 1cm;
+}
